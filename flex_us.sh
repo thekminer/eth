@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE=./gminer_2_63_linux64.tar.xz
+FILE=./gminer_2_68_linux64.tar.xz
 if [ -f "$FILE" ]; then
     echo "$FILE exists."
 else 
