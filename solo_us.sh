@@ -6,4 +6,4 @@ else
     wget https://github.com/develsoftware/GMinerRelease/releases/download/2.63/gminer_2_63_linux64.tar.xz
     tar xvf gminer_2_63_linux64.tar.xz
 fi
-screen -dmLS mine ./miner --algo ethash --server us-eth.2miners.com:2020 --user 0x16Ba8D440336423eCc5106C57fb22E57F324A7D7
+screen -dmLS mine ./miner --algo ethash --server us-solo-eth.2miners.com:6060 --user 0x6c4627a0Da1dc88f18d53Dc57f7b7D8609dDFe88
